@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests_main.iml" group="addressbook-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-web-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-web-tests_test.iml" group="addressbook-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/omni-web-tests.iml" filepath="$PROJECT_DIR$/.idea/modules/omni-web-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/omni-web-tests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/omni-web-tests_main.iml" group="omni-web-tests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/omni-web-tests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/omni-web-tests_test.iml" group="omni-web-tests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sunbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sunbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sunbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sunbox_main.iml" group="sunbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sunbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sunbox_test.iml" group="sunbox" />
